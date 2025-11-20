@@ -5,9 +5,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmydelux&show_icons=true&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmydeluxe0&show_icons=true&theme=github_dark&hide_border=true">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmydelux&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmydeluxe0&theme=github_dark&hide_border=true">
 </div>
